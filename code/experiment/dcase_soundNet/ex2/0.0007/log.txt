@@ -1,0 +1,6 @@
+scene
+waveform
+soundNet
+DCASE16000
+0.0007
+150

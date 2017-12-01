@@ -1,0 +1,6 @@
+scene
+waveform
+simpleNetRNN
+ESC
+0.0001
+100

@@ -1,0 +1,6 @@
+emotion
+toyWaveform
+simpleNetRNN
+IEMOCAP
+0.0003
+3

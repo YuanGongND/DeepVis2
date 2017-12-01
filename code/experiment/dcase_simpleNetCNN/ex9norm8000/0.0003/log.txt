@@ -1,0 +1,6 @@
+scene
+toyWaveform
+simpleNetCNN
+DCASE8000
+0.0003
+100

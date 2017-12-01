@@ -1,0 +1,6 @@
+scene
+toyWaveform
+simpleNetRNN
+ESC
+0.0003
+3

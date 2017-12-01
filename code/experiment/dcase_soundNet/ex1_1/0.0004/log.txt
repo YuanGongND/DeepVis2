@@ -1,0 +1,6 @@
+scene
+toyWaveform
+soundNet
+DCASE16000
+0.0004
+150

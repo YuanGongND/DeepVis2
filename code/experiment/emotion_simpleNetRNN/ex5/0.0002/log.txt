@@ -1,0 +1,6 @@
+emotion
+waveform
+simpleNetRNN
+IEMOCAP
+0.0002
+50

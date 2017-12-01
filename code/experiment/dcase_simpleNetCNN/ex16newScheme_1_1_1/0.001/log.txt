@@ -1,0 +1,6 @@
+scene
+waveform
+simpleNetCNN
+DCASE4000
+0.001
+150
